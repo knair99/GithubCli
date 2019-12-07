@@ -1,0 +1,9 @@
+{
+    "API_TOKEN" : "YOUR_API_KEY_GOES_HERE",
+    "BASE_URL": "https://api.github.com/orgs/",
+    "REPO_URL": "https://api.github.com/repos/",
+    "CACHE": { 
+        "DEFAULT_TIMEOUT": "6000",
+        "DEFAULT_BACKEND_DB": "sqlite"
+    }
+}   

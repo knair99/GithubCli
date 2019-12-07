@@ -1,0 +1,10 @@
+README.md
+setup.py
+github_cli/__init__.py
+github_cli/__main__.py
+github_cli/github_main.py
+github_cli.egg-info/PKG-INFO
+github_cli.egg-info/SOURCES.txt
+github_cli.egg-info/dependency_links.txt
+github_cli.egg-info/entry_points.txt
+github_cli.egg-info/top_level.txt
